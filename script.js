@@ -1,3 +1,5 @@
+//scroll
+
 ScrollReveal({ reset: true });
 
 ScrollReveal().reveal(".show-once", {
